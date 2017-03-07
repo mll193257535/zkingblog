@@ -1,4 +1,4 @@
-var express = require('express');
+var express = require('express');//导入express模块
 //router就是 路由模块
 var router = express.Router();
 

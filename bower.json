@@ -1,0 +1,17 @@
+{
+  "name": "zkingblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "马浪浪 <mll193257535@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mll193257535/zkingblog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
